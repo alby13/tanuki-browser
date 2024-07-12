@@ -90,6 +90,7 @@ Full license texts for these libraries are available in the `license.txt` file i
 ## 📞 Contact
 
 Tanuki Team - https://x.com/TanukiBrowser
+
 Project Link: [https://github.com/alby13/tanuki-browser](https://github.com/alby13/tanuki-browser)
 
 ---
