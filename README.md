@@ -70,7 +70,7 @@ Pre-Release Instructions:
 
 Tanuki Text Web Browser is available as donationware. While the software is free to use while available from the official source, we kindly ask users to consider making a donation to support ongoing development and maintenance.
 
-If you choose not to donate, we would greatly appreciate your feedback about the program. Please leave your thoughts and suggestions in the [GitHub Discussions](https://github.com/tanukiteam/tanuki-text-browser/discussions) section of our repository.
+If you choose not to donate, we would greatly appreciate your feedback about the program. Please leave your thoughts and suggestions in the [GitHub Discussions](https://github.com/alby13/tanuki-browser/discussions) section of our repository.
 
 Your feedback is appreciated!
 
