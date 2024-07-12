@@ -56,7 +56,8 @@ Your feedback is appreciated!
 
 ## 📝 Credits
 The Tanuki Team:
-Created by alby13
+
+Created by: alby13
 
 Programmer: Olivejima
 
