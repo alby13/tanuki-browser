@@ -54,7 +54,7 @@ If you choose not to donate, we would greatly appreciate your feedback about the
 
 Your feedback is appreciated!
 
-## 📝 Credits
+## 🦝 Tanuki Team
 The Tanuki Team:
 
 Created by: alby13
