@@ -54,6 +54,11 @@ If you choose not to donate, we would greatly appreciate your feedback about the
 
 Your feedback is appreciated!
 
+## 💰 Credits
+The Tanuki Team:
+Created by alby13
+Co-Creator: Olivejima
+
 ## 📄 License
 
 Tanuki Text Web Browser is closed-source software. All rights are reserved by the Tanuki Team, except where noted below for third-party libraries.
