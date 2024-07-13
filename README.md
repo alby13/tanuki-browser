@@ -9,7 +9,7 @@ The Tanuki Text Web Browser is a lightweight, secure, and privacy-focused text-b
 ### ⭐ Key Features
 
 - Simple and familiar interface
-- Native security by nature
+- Native security by design
 - Strict no-data-collection policy
 - Cross-platform compatibility (Linux and Windows)
 
