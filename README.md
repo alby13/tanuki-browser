@@ -4,7 +4,7 @@
 
 ## 📖 Introduction
 
-The Tanuki Text Web Browser is a lightweight, secure, and privacy-focused text-based web browser created in 100% Python. Designed with many features, and security in mind, it allows you to browse many websites using a unique approach to rendering websites in text.
+The Tanuki Text Web Browser is a simple, secure, and privacy-focused text-based web browser created in 100% Python. Designed with many features, and security in mind, it allows you to browse many websites using a unique approach to rendering websites in text.
 
 ### ⭐ Key Features
 
