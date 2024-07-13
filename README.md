@@ -51,7 +51,7 @@ Right-click the file and select Properties. Go to the permissions tab, then tick
 - Linux AMD64 and Windows were built with Python 3.10.12 or higher (most Linux distributions come with Python pre-installed)
 - Linux Intel was built with Python 3.8
 
-## 💰 Current Versions
+## 📋 Current Versions
 
 Windows 10/11: v1 Released 7-12-2024
 
