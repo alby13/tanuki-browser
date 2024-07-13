@@ -46,11 +46,10 @@ Right-click the file and select Properties. Go to the permissions tab, then tick
    ```
  **Enjoy the web in text!**
 
-#### Old Install Method: Prerequisites
-
-- Python 3.10.12 or higher (most Linux distributions come with Python pre-installed)
-
-Note: The program was originally created in Python - I have now created a linux Bin file for you to run the program.
+#### Prerequisites Information
+ 
+- Linux AMD64 and Windows were built with Python 3.10.12 or higher (most Linux distributions come with Python pre-installed)
+- Linux Intel was build with Python 3.8
 
 ## 💰 Current Versions
 
