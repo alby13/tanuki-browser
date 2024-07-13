@@ -13,7 +13,7 @@ The Tanuki Text Web Browser is a lightweight, secure, and privacy-focused text-b
 - Strict no-data-collection policy
 - Cross-platform compatibility (Linux and Windows)
 
-## 🪟 Installation for Windows
+## 🪟 Running on Windows
 
 We provide a easy pre-compiled executable for Windows users. Note: A security warning is 'normal' because Windows charges hundreds of dollars for a security certificate.
 
@@ -23,8 +23,11 @@ We provide a easy pre-compiled executable for Windows users. Note: A security wa
 2. **Run the program:**
    - Double-click `TanukiBrowser.exe`
 
-## 🚀 Installation for Linux
-Updated:
+## 🚀 Running on Linux
+
+Please select Linux Intel or Linux AMD64
+
+Please note: If you have an issue running this in the graphical interface, please follow the Terminal method below.
 
  **Run the program by GUI:**
    ```sh
