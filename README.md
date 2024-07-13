@@ -53,7 +53,7 @@ Right-click the file and select Properties. Go to the permissions tab, then tick
 
 ## 📋 Current Versions
 
-Windows 10/11: v1 Released 7-12-2024
+Windows 10/11: v2 Released 7-13-2024
 
 Linux (AMD64): V1 Released 7-12-2024
 
