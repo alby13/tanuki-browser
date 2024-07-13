@@ -49,7 +49,7 @@ Right-click the file and select Properties. Go to the permissions tab, then tick
 #### Prerequisites Information
  
 - Linux AMD64 and Windows were built with Python 3.10.12 or higher (most Linux distributions come with Python pre-installed)
-- Linux Intel was build with Python 3.8
+- Linux Intel was built with Python 3.8
 
 ## 💰 Current Versions
 
