@@ -67,7 +67,7 @@ Version 2:
 
 -Fixed an issue that would cause the program to freeze
 
--Added Scroll Bar, Text Wrapping, and Night Mode to Page Source
+-Upgraded Page Source: Added Scroll Bar, Text Wrapping, and Night Mode
 
 ## 💰 Donationware
 
