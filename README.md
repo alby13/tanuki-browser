@@ -25,7 +25,7 @@ We provide a easy pre-compiled executable for Windows users. Note: A security wa
 
 ## 🚀 Running on Linux
 
-Please select Linux Intel or Linux AMD64
+Please select Linux INTEL or Linux AMD64
 
 Please note: If you have an issue running this in the graphical interface, please follow the Terminal method below.
 
