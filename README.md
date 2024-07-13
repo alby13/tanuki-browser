@@ -49,13 +49,19 @@ Note: The program was originally created in Python - I have now created a linux 
 ## 💰 Current Versions
 
 Windows 10/11: v1 Released 7-12-2024
+
 Linux (AMD64): V1 Released 7-12-2024
+
 Linux (Intel): V2 Released 7-13-2024
 
 Patch Notes:
+
 7-12-2024
+
 v2: -Improvements to the browser engine; 
+
 Fixed an issue that would cause the program to freeze
+
 -Added Scroll Bar, Text Wrapping, and Night Mode to Page Source
 
 ## 💰 Donationware
