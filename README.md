@@ -54,11 +54,9 @@ Linux (AMD64): V1 Released 7-12-2024
 
 Linux (Intel): V2 Released 7-13-2024
 
-Patch Notes:
+Patch Notes (7-12-2024):
 
-7-12-2024
-
-Version 2 Release Notes: 
+Version 2:
 -Improvements to the browser engine; 
 
 Fixed an issue that would cause the program to freeze
