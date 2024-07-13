@@ -1,0 +1,11 @@
+How To Download Tanuki Browser for AMD64
+
+Please navigate to the main GitHub: https://github.com/alby13/tanuki-browser
+
+On the right menu you will see a link for "Releases" - Click on "Releases"
+
+Find the post Tanuki Browser Version [Number] - Linux (AMD64)
+
+On the bottom you will see "Assets". Expand this if needed.
+
+Download: tanukibrowser-v[number]-amd64.tar.gz
