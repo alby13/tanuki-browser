@@ -31,8 +31,6 @@ Please note: If you have an issue running this in the graphical interface, pleas
 
  **Run the program by GUI:**
 
-  **First Set Your Permissions**
-
 Right-click the file and select Properties. Go to the permissions tab, then tick the box Execute: [ ] Allow executing file as program
  
    ```sh
