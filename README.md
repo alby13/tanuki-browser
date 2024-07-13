@@ -30,6 +30,11 @@ Please select Linux INTEL or Linux AMD64
 Please note: If you have an issue running this in the graphical interface, please follow the Terminal method below.
 
  **Run the program by GUI:**
+
+  **First Set Your Permissions**
+
+Right-click the file and select Properties. Go to the permissions tab, then tick the box Execute: [ ] Allow executing file as program
+ 
    ```sh
    Double-click `TanukiBrowser.bin`
    ```
