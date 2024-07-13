@@ -49,9 +49,7 @@ Note: The program was originally created in Python - I have now created a linux 
 ## 💰 Current Versions
 
 Windows 10/11: v1 Released 7-12-2024
-
 Linux (AMD64): V1 Released 7-12-2024
-
 Linux (Intel): V2 Released 7-13-2024
 
 Patch Notes:
