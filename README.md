@@ -23,7 +23,7 @@ We provide a easy pre-compiled executable for Windows users. Note: A security wa
 2. **Run the program:**
    - Double-click `TanukiBrowser.exe`
 
-## 🚀 Running on Linux (Ubuntu)
+## 🚀 Running on Linux - Ubuntu
 
 Please select Linux INTEL or Linux AMD64 (Ubuntu and Ubuntu Based such as Mint, Zorin OS, Pop!_OS, KDE Neon, elementary OS, etc.)
 
