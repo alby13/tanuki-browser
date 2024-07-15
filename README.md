@@ -1,7 +1,7 @@
 # 🦝 Tanuki Text Web Browser
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
-Official Website: https://www.TanukiBrowser.com/
+ Official Website: https://www.TanukiBrowser.com/
 
 ## 📖 Introduction
 
