@@ -80,7 +80,7 @@ Your feedback is appreciated!
 
 ## 🦝 Tanuki Team
 
-Created by: alby13
+Created by and Lead Programmer: alby13
 
 Programmer: Olivejima
 
