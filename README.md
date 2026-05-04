@@ -11,8 +11,12 @@ The Tanuki Text Web Browser is a simple, secure, and privacy-focused text-based 
 
 - Simple and familiar interface
 - Native security by design
+- Search the web function using the most popular search engine
+- Color Theme Customization with Night Mode and personalized schemes
 - Strict no-data-collection policy
-- Cross-platform compatibility (Linux and Windows)
+- Save Webpages easily as text files for offline reading and archiving
+- Multiple Platform Builds for Windows, Linux, and Mac.
+- Japanese Support for Japanese language browsing
 
 ## 🪟 Running on Windows
 
@@ -51,6 +55,19 @@ Right-click the file and select Properties. Go to the permissions tab, then tick
  
 - Linux AMD64 and Windows were built with Python 3.10.12 or higher (most Linux distributions come with Python pre-installed)
 - Linux Intel was built with Python 3.8
+
+## Why Choose Tanuki TextWeb Browser?
+
+Let's introduce you to the Tanuki-Powered Web Experience: A Minimalist yet Captivating Text Adventure! Embrace the simplicity of a text universe that focuses on content rather than clutter. Tanuki strips away unnecessary elements, allowing you to enjoy a clean and straightforward browsing experience.
+
+#### What makes this browser different?
+Images are distracting. Leters and words are meant to be digested without distractions! Try reading some of your favorite informational websites or news and feel the difference! Ad-Free Browsing: Say goodbye to intrusive ads and distractions. Tanuki TextWeb provides an uninterrupted browsing experience, allowing you to focus solely on the delicious content. We realize that this browser may not be for you! In fact, it may only be for a select few. But that's okay. Because we believe that you should browse the web your way, above all else!
+
+#### Your privacy is very important.
+We think a lot about privacy. We want your web browser experience to be private! We do not collect any information from your computer. In fact, in a perfect Tanuki world, we wouldn't send any data from your computer! To make the web browser work, we send a request for the website from the web browser. That's the only thing that we send anywhere.
+
+#### Security better than a forest stronghold!
+Just like a tanuki's den is safe from prying eyes, our browser keeps your data secure. Programmed from the ground up with security in mind to ensure that your browsing experience is as safe as a walk through a protected forest.
 
 ## 📋 Current Versions
 
